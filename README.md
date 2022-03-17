@@ -1,2 +1,0 @@
-# Ezyfarming
-crop database project 
